@@ -1,0 +1,11 @@
+{
+  "addToMap": "å_Confirm and add to map_______________________ø",
+  "cancel": "å_Cancel_____________ø",
+  "confirm": "å_Confirm_______________ø",
+  "header": "å_Select item____________ø",
+  "select": "å_Select_____________ø",
+  "selectTask": "å_Select task____________ø",
+  "unsupportedLayer": "å_This parameter does not support the following layers: ${layerName}___________________________________ø.",
+  "viewDetails": "å_View details_____________ø",
+  "layerLoadFailure": "å_Failed to load layer______________________ø."
+}

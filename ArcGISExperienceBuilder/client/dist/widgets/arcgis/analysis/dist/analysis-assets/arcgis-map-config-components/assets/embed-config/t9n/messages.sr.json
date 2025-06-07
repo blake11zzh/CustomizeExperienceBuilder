@@ -1,0 +1,22 @@
+{
+  "availableActions": "Dostupne radnje",
+  "bookmarks": "Obeleživači",
+  "copyHTML": "Kopiraj HTML",
+  "custom": "Prilagođeno",
+  "dark": "Tamno",
+  "embed": "Ugrađeno",
+  "embedMap": "Ugradi mapu",
+  "htmlCopied": "HTML kopiran",
+  "large": "Veliko",
+  "legend": "Legenda",
+  "light": "Svetlo",
+  "mapElements": "Elementi mape",
+  "mapSummary": "Rezime mape",
+  "mapTitle": "Naslov mape",
+  "medium": "Srednje",
+  "mode": "Režim",
+  "openInMapViewer": "Otvori u Map Viewer",
+  "size": "Veličina",
+  "sizeInfo": "Veličine su responzivne i zasnovane su na visini i širini prozora pregledača",
+  "small": "Malo"
+}

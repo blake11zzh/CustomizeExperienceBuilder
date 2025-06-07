@@ -1,0 +1,22 @@
+{
+  "availableActions": "可用動作",
+  "bookmarks": "書簽",
+  "copyHTML": "複製 HTML",
+  "custom": "自訂",
+  "dark": "深色",
+  "embed": "內嵌",
+  "embedMap": "嵌入地圖",
+  "htmlCopied": "HTML 已複製",
+  "large": "大",
+  "legend": "圖例",
+  "light": "淺色",
+  "mapElements": "地圖元素",
+  "mapSummary": "地圖摘要",
+  "mapTitle": "地圖標題",
+  "medium": "中",
+  "mode": "模式",
+  "openInMapViewer": "在 Map Viewer 中開啟",
+  "size": "大小",
+  "sizeInfo": "大小是回應式的，並且基於瀏覽器視窗的高度和寬度",
+  "small": "小"
+}

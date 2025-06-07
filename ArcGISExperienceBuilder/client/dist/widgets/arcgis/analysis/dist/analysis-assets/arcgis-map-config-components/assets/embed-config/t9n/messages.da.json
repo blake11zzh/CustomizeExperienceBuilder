@@ -1,0 +1,22 @@
+{
+  "availableActions": "Tilgængelige handlinger",
+  "bookmarks": "Bogmærker",
+  "copyHTML": "Kopiér HTML",
+  "custom": "Brugerdefineret",
+  "dark": "Mørk",
+  "embed": "Integrér",
+  "embedMap": "Integrér kort",
+  "htmlCopied": "HTML kopieret",
+  "large": "Stor",
+  "legend": "Forklaring",
+  "light": "Lys",
+  "mapElements": "Kortelementer",
+  "mapSummary": "Kortoversigt",
+  "mapTitle": "Korttitel",
+  "medium": "Mellem",
+  "mode": "Tilstand",
+  "openInMapViewer": "Åbn i Map Viewer",
+  "size": "Størrelse",
+  "sizeInfo": "Størrelser kan reagere på ændringer og er baseret på browservinduets højde og bredde",
+  "small": "Lille"
+}

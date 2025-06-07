@@ -1,0 +1,80 @@
+{
+  "entrypoints": {
+    "widgets/add-layers-to-a-map/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/add-layers-to-a-map/dist/runtime/widget",
+          "names": [
+            "widgets/add-layers-to-a-map/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/add-layers-to-a-map/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/add-layers-to-a-map/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/add-layers-to-a-map/dist/setting/setting",
+          "names": [
+            "widgets/add-layers-to-a-map/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/add-layers-to-a-map/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/get-map-coordinates/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/get-map-coordinates/dist/runtime/widget",
+          "names": [
+            "widgets/get-map-coordinates/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/get-map-coordinates/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/get-map-coordinates/dist/setting/setting": {
+      "chunks": [
+        {
+          "id": "widgets/get-map-coordinates/dist/setting/setting",
+          "names": [
+            "widgets/get-map-coordinates/dist/setting/setting"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/get-map-coordinates/src/setting/setting.tsx"
+          ]
+        }
+      ]
+    },
+    "widgets/simple/dist/runtime/widget": {
+      "chunks": [
+        {
+          "id": "widgets/simple/dist/runtime/widget",
+          "names": [
+            "widgets/simple/dist/runtime/widget"
+          ],
+          "modules": [
+            "./jimu-core/lib/set-public-path.ts",
+            "./your-extensions/widgets/simple/src/runtime/widget.tsx"
+          ]
+        }
+      ]
+    }
+  },
+  "chunks": [],
+  "errors": [],
+  "warnings": [],
+  "outputPath": "/Users/balaka/Experience Builder Customization/ArcGISExperienceBuilder/client/dist-prod",
+  "publicPath": "",
+  "version": "5.96.1"
+}

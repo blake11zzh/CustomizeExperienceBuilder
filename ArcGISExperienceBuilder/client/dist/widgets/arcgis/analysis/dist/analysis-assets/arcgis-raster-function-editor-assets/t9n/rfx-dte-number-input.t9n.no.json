@@ -1,0 +1,12 @@
+{
+  "aboveMaximumMessage": "å_The input value must be less than or equal to ${max}____________________________ø.",
+  "belowMinimumMessage": "å_The input value must be greater than or equal to ${min}_____________________________ø.",
+  "invalidDoubleMessage": "å_The input value must be a double__________________ø.",
+  "invalidIntegerMessage": "å_The input value must be an integer___________________ø.",
+  "maxValuesMessage": "å_There must be no more than ${maxValues} distinct input values________________________________ø.",
+  "minValuesMessage": "å_There must be at least ${minValues} distinct input values______________________________ø.",
+  "requiredInputMessage": "å_This parameter is required____________________________ø.",
+  "strictlyMaximumMessage": "å_The input value must be less than ${max}______________________ø.",
+  "strictlyMinimumMessage": "å_The input value must be greater than ${min}_______________________ø.",
+  "placeholder": "å_Enter a value__________________ø ..."
+}

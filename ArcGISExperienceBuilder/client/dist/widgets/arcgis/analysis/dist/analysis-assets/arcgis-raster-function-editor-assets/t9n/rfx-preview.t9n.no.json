@@ -1,0 +1,13 @@
+{
+  "header": "å_Preview_______________ø",
+  "description": "å_Preview the result before running analysis_______________________ø.",
+  "showPreview": "å_Show preview_____________ø",
+  "previewLayer": "å_Preview layer ${number}________________________ø",
+  "update": "å_Update_____________ø",
+  "newPreview": "å_New preview____________ø",
+  "previewPopup": "å_Enable the preview of the analysis results based on the input parameters______________________________________ø.",
+  "previewError": "å_This preview layer is unavailable. Check the input parameters and update this preview layer again__________________________________________________ø.",
+  "updatePopover": "å_Update selected preview layer______________________________ø",
+  "createPopover": "å_Create new preview layer_________________________ø",
+  "maxPreview": "å_Maximum number of preview layers allowed: ${maxCount}____________________________ø"
+}

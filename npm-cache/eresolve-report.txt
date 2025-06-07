@@ -1,0 +1,240 @@
+# npm resolution error report
+
+2023-10-08T07:10:50.924Z
+
+While resolving: exb-client@1.13.0
+Found: typescript@5.2.2
+node_modules/typescript
+  dev typescript@"^5.1.6" from the root project
+  peer typescript@"*" from eslint-config-standard-with-typescript@36.1.1
+  node_modules/eslint-config-standard-with-typescript
+    dev eslint-config-standard-with-typescript@"^36.0.0" from the root project
+  peer typescript@">3.6.0" from fork-ts-checker-webpack-plugin@8.0.0
+  node_modules/fork-ts-checker-webpack-plugin
+    dev fork-ts-checker-webpack-plugin@"^8.0.0" from the root project
+  peerOptional typescript@"^4.7 || 5" from react-intl@6.4.7
+  node_modules/react-intl
+    react-intl@"^6.4.4" from the root project
+  peer typescript@">=4.3 <6" from ts-jest@29.1.1
+  node_modules/ts-jest
+    dev ts-jest@"^29.1.0" from the root project
+  peer typescript@"*" from ts-loader@9.5.0
+  node_modules/ts-loader
+    dev ts-loader@"^9.4.4" from the root project
+
+Could not resolve dependency:
+dev typedoc@"^0.24.8" from the root project
+
+Conflicting peer dependency: typescript@5.1.6
+node_modules/typescript
+  peer typescript@"4.6.x || 4.7.x || 4.8.x || 4.9.x || 5.0.x || 5.1.x" from typedoc@0.24.8
+  node_modules/typedoc
+    dev typedoc@"^0.24.8" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force, or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.
+
+Raw JSON explanation object:
+
+{
+  "code": "ERESOLVE",
+  "edge": {
+    "type": "dev",
+    "name": "typedoc",
+    "spec": "^0.24.8",
+    "error": "MISSING",
+    "from": {
+      "location": "C:\\esriWork\\ExperienceBuilder\\client"
+    }
+  },
+  "dep": {
+    "name": "typedoc",
+    "version": "0.24.8",
+    "whileInstalling": {
+      "name": "exb-client",
+      "version": "1.13.0",
+      "path": "C:\\esriWork\\ExperienceBuilder\\client"
+    },
+    "location": "node_modules/typedoc",
+    "isWorkspace": false,
+    "dependents": [
+      {
+        "type": "dev",
+        "name": "typedoc",
+        "spec": "^0.24.8",
+        "error": "MISSING",
+        "from": {
+          "location": "C:\\esriWork\\ExperienceBuilder\\client"
+        }
+      }
+    ]
+  },
+  "current": null,
+  "peerConflict": {
+    "current": {
+      "name": "typescript",
+      "version": "5.2.2",
+      "location": "node_modules/typescript",
+      "isWorkspace": false,
+      "dependents": [
+        {
+          "type": "dev",
+          "name": "typescript",
+          "spec": "^5.1.6",
+          "from": {
+            "location": "C:\\esriWork\\ExperienceBuilder\\client"
+          }
+        },
+        {
+          "type": "peer",
+          "name": "typescript",
+          "spec": "*",
+          "from": {
+            "name": "eslint-config-standard-with-typescript",
+            "version": "36.1.1",
+            "location": "node_modules/eslint-config-standard-with-typescript",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "dev",
+                "name": "eslint-config-standard-with-typescript",
+                "spec": "^36.0.0",
+                "from": {
+                  "location": "C:\\esriWork\\ExperienceBuilder\\client"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "typescript",
+          "spec": ">3.6.0",
+          "from": {
+            "name": "fork-ts-checker-webpack-plugin",
+            "version": "8.0.0",
+            "location": "node_modules/fork-ts-checker-webpack-plugin",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "dev",
+                "name": "fork-ts-checker-webpack-plugin",
+                "spec": "^8.0.0",
+                "from": {
+                  "location": "C:\\esriWork\\ExperienceBuilder\\client"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peerOptional",
+          "name": "typescript",
+          "spec": "^4.7 || 5",
+          "from": {
+            "name": "react-intl",
+            "version": "6.4.7",
+            "location": "node_modules/react-intl",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "prod",
+                "name": "react-intl",
+                "spec": "^6.4.4",
+                "from": {
+                  "location": "C:\\esriWork\\ExperienceBuilder\\client"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "typescript",
+          "spec": ">=4.3 <6",
+          "from": {
+            "name": "ts-jest",
+            "version": "29.1.1",
+            "location": "node_modules/ts-jest",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "dev",
+                "name": "ts-jest",
+                "spec": "^29.1.0",
+                "from": {
+                  "location": "C:\\esriWork\\ExperienceBuilder\\client"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "peer",
+          "name": "typescript",
+          "spec": "*",
+          "from": {
+            "name": "ts-loader",
+            "version": "9.5.0",
+            "location": "node_modules/ts-loader",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "dev",
+                "name": "ts-loader",
+                "spec": "^9.4.4",
+                "from": {
+                  "location": "C:\\esriWork\\ExperienceBuilder\\client"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "peer": {
+      "name": "typescript",
+      "version": "5.1.6",
+      "whileInstalling": {
+        "name": "exb-client",
+        "version": "1.13.0",
+        "path": "C:\\esriWork\\ExperienceBuilder\\client"
+      },
+      "location": "node_modules/typescript",
+      "isWorkspace": false,
+      "dependents": [
+        {
+          "type": "peer",
+          "name": "typescript",
+          "spec": "4.6.x || 4.7.x || 4.8.x || 4.9.x || 5.0.x || 5.1.x",
+          "from": {
+            "name": "typedoc",
+            "version": "0.24.8",
+            "whileInstalling": {
+              "name": "exb-client",
+              "version": "1.13.0",
+              "path": "C:\\esriWork\\ExperienceBuilder\\client"
+            },
+            "location": "node_modules/typedoc",
+            "isWorkspace": false,
+            "dependents": [
+              {
+                "type": "dev",
+                "name": "typedoc",
+                "spec": "^0.24.8",
+                "error": "MISSING",
+                "from": {
+                  "location": "C:\\esriWork\\ExperienceBuilder\\client"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "strictPeerDeps": false,
+  "force": false,
+  "isMine": true
+}

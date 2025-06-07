@@ -1,0 +1,22 @@
+{
+  "availableActions": "Tilgjengelige handlinger",
+  "bookmarks": "Bokmerker",
+  "copyHTML": "Kopier HTML",
+  "custom": "Tilpasset",
+  "dark": "Mørk",
+  "embed": "Bygg inn",
+  "embedMap": "Bygg inn kart",
+  "htmlCopied": "HTML kopiert",
+  "large": "Stort",
+  "legend": "Tegnforklaring",
+  "light": "Lys",
+  "mapElements": "Kartelementer",
+  "mapSummary": "Kartoppsummering",
+  "mapTitle": "Karttittel",
+  "medium": "Middels",
+  "mode": "Modus",
+  "openInMapViewer": "Åpne i Kartvisning",
+  "size": "Størrelse",
+  "sizeInfo": "Størrelser er responsive og basert på nettleservinduets høyde og bredde",
+  "small": "Lite"
+}

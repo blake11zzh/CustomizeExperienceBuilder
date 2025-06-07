@@ -1,0 +1,22 @@
+{
+  "availableActions": "Galimi veiksmai",
+  "bookmarks": "Žymos",
+  "copyHTML": "Kopijuoti HTML",
+  "custom": "Pasirinktinis",
+  "dark": "Tamsi",
+  "embed": "Įterpti",
+  "embedMap": "Įterpti žemėlapį",
+  "htmlCopied": "HTML nukopijuotas",
+  "large": "Didelis",
+  "legend": "Legenda",
+  "light": "Šviesi",
+  "mapElements": "Žemėlapio elementai",
+  "mapSummary": "Žemėlapio santrauka",
+  "mapTitle": "Žemėlapio pavadinimas",
+  "medium": "Vidutinis",
+  "mode": "Režimas",
+  "openInMapViewer": "Atverti naudojant Map Viewer",
+  "size": "Dydis",
+  "sizeInfo": "Dydžiai atitinka naršyklės lango aukštį ir plotį",
+  "small": "Mažas"
+}

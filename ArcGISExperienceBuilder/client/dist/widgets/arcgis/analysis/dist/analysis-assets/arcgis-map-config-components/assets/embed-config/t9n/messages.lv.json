@@ -1,0 +1,22 @@
+{
+  "availableActions": "Pieejamās darbības",
+  "bookmarks": "Grāmatzīmes",
+  "copyHTML": "Kopēt HTML",
+  "custom": "Pielāgots",
+  "dark": "Tumšs",
+  "embed": "Iegult",
+  "embedMap": "Iegult karti",
+  "htmlCopied": "HTML nokopēts",
+  "large": "Liels",
+  "legend": "Apzīmējumi",
+  "light": "Gaišs",
+  "mapElements": "Kartes elementi",
+  "mapSummary": "Kartes kopsavilkums",
+  "mapTitle": "Kartes virsraksts",
+  "medium": "Vidējs",
+  "mode": "Režīms",
+  "openInMapViewer": "Atvērt, izmantojot Map Viewer",
+  "size": "Izmērs",
+  "sizeInfo": "Izmēri ir atbilstoši un balstīti uz pārlūka loga augstumu un platumu.",
+  "small": "Mazs"
+}

@@ -1,0 +1,66 @@
+{
+  "nodes": [
+    {
+      "name": "widgets/add-layers-to-a-map/dist/runtime/widget",
+      "size": 2508
+    },
+    {
+      "name": "widgets/add-layers-to-a-map/dist/setting/setting",
+      "size": 1720
+    },
+    {
+      "name": "widgets/get-map-coordinates/dist/runtime/widget",
+      "size": 2447
+    },
+    {
+      "name": "widgets/get-map-coordinates/dist/setting/setting",
+      "size": 1721
+    },
+    {
+      "name": "widgets/simple/dist/runtime/widget",
+      "size": 1465
+    }
+  ],
+  "links": [
+    {
+      "source": "widgets/add-layers-to-a-map/dist/runtime/widget",
+      "target": "esri/layers/FeatureLayer"
+    },
+    {
+      "source": "widgets/add-layers-to-a-map/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/add-layers-to-a-map/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/add-layers-to-a-map/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/add-layers-to-a-map/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/get-map-coordinates/dist/runtime/widget",
+      "target": "jimu-arcgis/index"
+    },
+    {
+      "source": "widgets/get-map-coordinates/dist/runtime/widget",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/get-map-coordinates/dist/setting/setting",
+      "target": "jimu-core/index"
+    },
+    {
+      "source": "widgets/get-map-coordinates/dist/setting/setting",
+      "target": "jimu-ui/advanced/setting-components"
+    },
+    {
+      "source": "widgets/simple/dist/runtime/widget",
+      "target": "jimu-core/index"
+    }
+  ]
+}

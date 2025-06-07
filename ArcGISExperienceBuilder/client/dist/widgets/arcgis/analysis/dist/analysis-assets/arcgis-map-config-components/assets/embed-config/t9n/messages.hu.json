@@ -1,0 +1,22 @@
+{
+  "availableActions": "Rendelkezésre álló műveletek",
+  "bookmarks": "Könyvjelzők",
+  "copyHTML": "HTML másolása",
+  "custom": "Egyéni",
+  "dark": "Sötét",
+  "embed": "Beágyazás",
+  "embedMap": "Térkép beágyazása",
+  "htmlCopied": "HTML másolva",
+  "large": "Nagy",
+  "legend": "Jelmagyarázat",
+  "light": "Fény",
+  "mapElements": "Térképelemek",
+  "mapSummary": "Térkép összesítés",
+  "mapTitle": "Térkép címe",
+  "medium": "Közepes",
+  "mode": "Mód",
+  "openInMapViewer": "Megnyitás a Map Viewerben",
+  "size": "Méret",
+  "sizeInfo": "A méretek interaktívak, és a böngészőablak magasságától és szélességétől függenek",
+  "small": "Kicsi"
+}

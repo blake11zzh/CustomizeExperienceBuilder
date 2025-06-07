@@ -1,0 +1,14 @@
+{
+  "outputRaster": "å_OutputRaster_____________ø",
+  "rfxVariable": "å_RasterFunctionVariable_______________________ø",
+  "selectLayer": "å_Select Layer_____________ø",
+  "allowScalar": "å_Select a layer or enter a constant__________________ø",
+  "browseLayer": "å_Browse layers______________ø",
+  "loading": "å_Loading_____________________ø...",
+  "layerMissing": "å_One or more imagery layers from the map are not listed here because the allow analysis service property is not enabled_____________________________________________________________ø.",
+  "layerFailedToLoad": "å_Failed to load layer______________________ø.",
+  "learnMore": "å_Learn more_____________________ø",
+  "errorCodes": {
+    "required": "å_This parameter is required____________________________ø."
+  }
+}

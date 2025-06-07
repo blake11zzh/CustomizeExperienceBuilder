@@ -1,0 +1,30 @@
+{
+  "1741804163930": {
+    "originalName": "logo.png",
+    "fileName": "1741804163930.png",
+    "size": 2914,
+    "url": "${appResourceUrl}/images/widget_8/1741804163930.png",
+    "created": 1741804163930,
+    "resourcesPrefix": "images/widget_8",
+    "referredIds": [],
+    "originId": "1741804163930",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 244,
+    "originalHeight": 68
+  },
+  "1744394041860": {
+    "originalName": "Hatch_Logo_White_RGB.png",
+    "fileName": "1744394041860.png",
+    "size": 18375,
+    "url": "${appResourceUrl}/images/widget_8/1744394041860.png",
+    "created": 1744394041860,
+    "resourcesPrefix": "images/widget_8",
+    "referredIds": [],
+    "originId": "1744394041860",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 1986,
+    "originalHeight": 715
+  }
+}

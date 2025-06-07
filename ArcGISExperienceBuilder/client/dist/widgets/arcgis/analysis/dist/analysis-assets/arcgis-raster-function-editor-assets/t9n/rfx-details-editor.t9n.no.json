@@ -1,0 +1,22 @@
+{
+  "general": "å_General_______________ø",
+  "parameters": "å_Parameters_____________________ø",
+  "variables": "å_Variables___________________ø",
+  "name": "å_Name_________ø",
+  "namePlaceHolder": "å_Enter name_____________________ø",
+  "description": "å_Description____________ø",
+  "parameter": "å_Parameter___________________ø",
+  "isPublic": "å_IsPublic_________________ø",
+  "isDataset": "å_IsDataset___________________ø",
+  "unknownPixelType": "å_Unknown_______________ø",
+  "outputPixelType": "å_Output Pixel Type__________________ø",
+  "u8PixelType": "å_8 Bit Unsigned_______________ø",
+  "s8PixelType": "å_8 Bit Signed_____________ø",
+  "u16PixelType": "å_16 Bit Unsigned________________ø",
+  "s16PixelType": "å_16 Bit Signed______________ø",
+  "u32PixelType": "å_32 Bit Unsigned________________ø",
+  "s32PixelType": "å_32 Bit Signed______________ø",
+  "f32PixelType": "å_32 Bit Float_____________ø",
+  "f64PixelType": "å_64 Bit Double______________ø",
+  "properties": "å_Properties_____________________ø"
+}

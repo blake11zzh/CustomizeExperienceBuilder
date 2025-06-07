@@ -1,0 +1,22 @@
+{
+  "availableActions": "Actions disponibles",
+  "bookmarks": "Géosignets",
+  "copyHTML": "Copier le code HTML",
+  "custom": "Personnalisé",
+  "dark": "Sombre",
+  "embed": "Intégrer",
+  "embedMap": "Intégrer la carte",
+  "htmlCopied": "HTML copié",
+  "large": "Grand",
+  "legend": "Légende",
+  "light": "Clair",
+  "mapElements": "Éléments de la carte",
+  "mapSummary": "Résumé de la carte",
+  "mapTitle": "Titre de la carte",
+  "medium": "Moyen",
+  "mode": "Mode",
+  "openInMapViewer": "Ouvrir dans Map Viewer",
+  "size": "Taille",
+  "sizeInfo": "Les tailles sont adaptatives et s’ajustent en fonction de la hauteur et de la largeur de la fenêtre du navigateur",
+  "small": "Petit"
+}

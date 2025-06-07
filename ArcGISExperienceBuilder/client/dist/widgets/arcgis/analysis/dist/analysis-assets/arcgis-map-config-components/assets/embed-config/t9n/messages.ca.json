@@ -1,0 +1,22 @@
+{
+  "availableActions": "Accions disponibles",
+  "bookmarks": "Marcadors",
+  "copyHTML": "Copia l'HTML",
+  "custom": "Personalitzat",
+  "dark": "Fosc",
+  "embed": "Incrusta",
+  "embedMap": "Incrusta el mapa",
+  "htmlCopied": "S'ha copiat l'HTML",
+  "large": "Gran",
+  "legend": "Llegenda",
+  "light": "Clar",
+  "mapElements": "Elements del mapa",
+  "mapSummary": "Resum del mapa",
+  "mapTitle": "Títol del mapa",
+  "medium": "Mitjà",
+  "mode": "Mode",
+  "openInMapViewer": "Obre-ho al Map Viewer",
+  "size": "Mida",
+  "sizeInfo": "Les mides s'adapten i es basen en l'altura i l'amplada de la finestra del navegador",
+  "small": "Petita"
+}

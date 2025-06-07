@@ -1,0 +1,22 @@
+{
+  "availableActions": "利用可能なアクション",
+  "bookmarks": "ブックマーク",
+  "copyHTML": "HTML のコピー",
+  "custom": "カスタム",
+  "dark": "暗色",
+  "embed": "埋め込み",
+  "embedMap": "マップの埋め込み",
+  "htmlCopied": "HTML をコピーしました",
+  "large": "大",
+  "legend": "凡例",
+  "light": "明色",
+  "mapElements": "マップ エレメント",
+  "mapSummary": "マップ サマリー",
+  "mapTitle": "マップ タイトル",
+  "medium": "中",
+  "mode": "モード",
+  "openInMapViewer": "Map Viewer で開く",
+  "size": "サイズ",
+  "sizeInfo": "サイズはレスポンシブで、ブラウザー ウィンドウの高さと幅に基づきます",
+  "small": "小"
+}

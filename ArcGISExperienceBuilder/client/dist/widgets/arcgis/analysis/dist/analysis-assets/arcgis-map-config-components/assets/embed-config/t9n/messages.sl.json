@@ -1,0 +1,22 @@
+{
+  "availableActions": "Razpoložljiva dejanja",
+  "bookmarks": "Zaznamki",
+  "copyHTML": "Kopiraj HTML",
+  "custom": "Po meri",
+  "dark": "Temna",
+  "embed": "Vdelaj",
+  "embedMap": "Vdelaj karto",
+  "htmlCopied": "HTML kopiran",
+  "large": "Veliko",
+  "legend": "Legenda",
+  "light": "Svetla",
+  "mapElements": "Elementi karte",
+  "mapSummary": "Povzetek karte",
+  "mapTitle": "Naslov karte",
+  "medium": "Srednje",
+  "mode": "Način",
+  "openInMapViewer": "Odpri v Pregledovalniku kart",
+  "size": "Velikost",
+  "sizeInfo": "Velikosti so odzivne in temeljijo na višini in širini okna brskalnika",
+  "small": "Majhno"
+}

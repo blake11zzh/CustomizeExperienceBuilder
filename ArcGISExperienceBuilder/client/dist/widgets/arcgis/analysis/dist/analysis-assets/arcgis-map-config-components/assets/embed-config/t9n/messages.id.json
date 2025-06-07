@@ -1,0 +1,22 @@
+{
+  "availableActions": "Tindakan yang tersedia",
+  "bookmarks": "Penanda Lokasi",
+  "copyHTML": "Bookmark",
+  "custom": "Kustom",
+  "dark": "Gelap",
+  "embed": "Sematkan",
+  "embedMap": "Peta yang disematkan",
+  "htmlCopied": "HTML disalin",
+  "large": "Besar",
+  "legend": "Legenda",
+  "light": "Ringan",
+  "mapElements": "Elemen peta",
+  "mapSummary": "Ringkasan peta",
+  "mapTitle": "Judul peta",
+  "medium": "Medium",
+  "mode": "Mode",
+  "openInMapViewer": "Buka di Map Viewer",
+  "size": "Ukuran",
+  "sizeInfo": "Ukuran bersifat responsif dan berdasarkan tinggi dan lebar jendela browser",
+  "small": "Kecil"
+}

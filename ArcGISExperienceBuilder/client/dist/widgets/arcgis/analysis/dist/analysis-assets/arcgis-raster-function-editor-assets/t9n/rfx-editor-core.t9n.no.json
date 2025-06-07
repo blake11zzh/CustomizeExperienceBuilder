@@ -1,0 +1,13 @@
+{
+  "addRaster": "å_Add Raster Variable____________________ø",
+  "addScalar": "å_Add Constant_____________ø",
+  "raster": "å_Raster_____________ø",
+  "scalar": "å_Scalar_____________ø",
+  "defaultModelName": "å_Raster Function Template_________________________ø",
+  "defaultRasterName": "å_Raster_____________ø",
+  "invalidRFTMessage": "å_The raster function template is not valid______________________ø.",
+  "deprecated": "å_Deprecated_____________________ø",
+  "deprecatedHoverText": "å_This raster function is deprecated and will be removed in a future release_______________________________________ø.",
+  "userStartDirection": "å_Select a function to start building a raster function template_________________________________ø.",
+  "learnMore": "å_Learn more_____________________ø"
+}

@@ -1,0 +1,14 @@
+{
+  "pathPrefix": "/experience-builder",
+  "buildTimestamp": "2025-03-17T16:34:30.746Z",
+  "gatsbyVersion": "5.13.7",
+  "themeVersion": "6.0.4",
+  "gitRepo": "git@devtopia.esri.com:ArcGISDevelopers/experience-builder-doc.git",
+  "gitBranch": "exb1.17-preview",
+  "gitCommit": "6c5bbf6c1c5e07b26c6156a9a2c2703fe9053d0b",
+  "gitCommitTimestamp": "2025-03-17T16:30:12.000Z",
+  "siteId": "experience-builder",
+  "siteName": "ArcGIS Experience Builder",
+  "searchProduct": "experience-builder",
+  "xRefs": "experience-builder.xrefs.json"
+}

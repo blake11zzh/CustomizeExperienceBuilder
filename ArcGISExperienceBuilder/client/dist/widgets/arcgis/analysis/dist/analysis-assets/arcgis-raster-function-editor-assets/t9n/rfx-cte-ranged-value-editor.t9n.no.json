@@ -1,0 +1,6 @@
+{
+  "greaterThanErrorMessage": "å_The input number must be greater than ${min}_______________________ø",
+  "lesserThanErrorMessage": "å_The input number must be lower than ${max}______________________ø",
+  "greaterThanOrEqualErrorMessage": "å_The input number must be greater than or equal to ${min}_____________________________ø",
+  "lesserThanOrEqualErrorMessage": "å_The input number must be lower than or equal to ${max}____________________________ø"
+}

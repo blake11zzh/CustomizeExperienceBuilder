@@ -1,0 +1,22 @@
+{
+  "availableActions": "פעולות זמינות",
+  "bookmarks": "סימניות",
+  "copyHTML": "העתק HTML",
+  "custom": "מותאם",
+  "dark": "כהה",
+  "embed": "הטבע",
+  "embedMap": "הטבע מפה",
+  "htmlCopied": "HTML הועתק",
+  "large": "גדול",
+  "legend": "מקרא",
+  "light": "בהיר",
+  "mapElements": "רכיבי מפה",
+  "mapSummary": "סיכום מפה",
+  "mapTitle": "כותרת מפה",
+  "medium": "בינונית",
+  "mode": "מוד",
+  "openInMapViewer": "פתח ב-Map Viewer",
+  "size": "גודל",
+  "sizeInfo": "הגדלים מתכווננים ומבוססים על הגובה והרוחב של חלון הדפדפן",
+  "small": "קטן"
+}

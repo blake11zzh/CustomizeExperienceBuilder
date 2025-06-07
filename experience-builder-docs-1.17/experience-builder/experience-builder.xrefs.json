@@ -1,0 +1,358 @@
+{
+  "siteId": "experience-builder",
+  "pathPrefix": "/experience-builder",
+  "xrefs": {
+    "xref://site.experience-builder/whats-new-1-13/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.13",
+      "url": "/guide/1.13/whats-new/"
+    },
+    "xref://site.experience-builder/whats-new-1-4/": {
+      "siteId": "experience-builder",
+      "title": "Release 1.4",
+      "url": "/guide/1.4/whats-new/"
+    },
+    "xref://site.experience-builder/share-code-between-widgets/": {
+      "siteId": "experience-builder",
+      "title": "Share code between widgets",
+      "url": "/guide/share-code-between-widgets/"
+    },
+    "xref://site.experience-builder/override-webpack-config/": {
+      "siteId": "experience-builder",
+      "title": "Override webpack config",
+      "url": "/guide/override-webpack-config/"
+    },
+    "xref://site.experience-builder/tutorial-get-map-coordinates/": {
+      "siteId": "experience-builder",
+      "title": "Get map coordinates",
+      "url": "/guide/get-map-coordinates/"
+    },
+    "xref://site.experience-builder/getting-started-widget/": {
+      "siteId": "experience-builder",
+      "title": "Getting started with widget development",
+      "url": "/guide/getting-started-widget/"
+    },
+    "xref://site.experience-builder/debugging-widget-development/": {
+      "siteId": "experience-builder",
+      "title": "Debugging widget development",
+      "url": "/guide/debugging-widget-development/"
+    },
+    "xref://site.experience-builder/whats-new-1-6/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.6",
+      "url": "/guide/1.6/whats-new/"
+    },
+    "xref://site.experience-builder/data-action/": {
+      "siteId": "experience-builder",
+      "title": "Data action",
+      "url": "/guide/core-concepts/data-action/"
+    },
+    "xref://site.experience-builder/layout/": {
+      "siteId": "experience-builder",
+      "title": "Layout",
+      "url": "/guide/core-concepts/layout/"
+    },
+    "xref://site.experience-builder/jimu-core/": {
+      "siteId": "experience-builder",
+      "title": "Jimu Core",
+      "url": "/api-reference/jimu-core/"
+    },
+    "xref://site.experience-builder/whats-new/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.17",
+      "url": "/guide/whats-new/"
+    },
+    "xref://site.experience-builder/unit-testing/": {
+      "siteId": "experience-builder",
+      "title": "Unit Testing",
+      "url": "/guide/unit-testing/"
+    },
+    "xref://site.experience-builder/widget-manifest/": {
+      "siteId": "experience-builder",
+      "title": "Widget manifest",
+      "url": "/guide/widget-manifest/"
+    },
+    "xref://site.experience-builder/whats-new-1-2/": {
+      "siteId": "experience-builder",
+      "title": "Release 1.2",
+      "url": "/guide/1.2/whats-new/"
+    },
+    "xref://site.experience-builder/datasource/": {
+      "siteId": "experience-builder",
+      "title": "Data sources",
+      "url": "/guide/core-concepts/data-source/"
+    },
+    "xref://site.experience-builder/whats-new-1-9/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.9",
+      "url": "/guide/1.9/whats-new/"
+    },
+    "xref://site.experience-builder/window/": {
+      "siteId": "experience-builder",
+      "title": "Window",
+      "url": "/guide/core-concepts/window/"
+    },
+    "xref://site.experience-builder/widget/": {
+      "siteId": "experience-builder",
+      "title": "Widget",
+      "url": "/guide/core-concepts/widget/"
+    },
+    "xref://site.experience-builder/install-guide/": {
+      "siteId": "experience-builder",
+      "title": "ArcGIS Experience Builder install",
+      "url": "/guide/install-guide/"
+    },
+    "xref://site.experience-builder/whats-new-1-5/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.5",
+      "url": "/guide/1.5/whats-new/"
+    },
+    "xref://site.experience-builder/whats-new-1-7/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.7",
+      "url": "/guide/1.7/whats-new/"
+    },
+    "xref://site.experience-builder/jimu/": {
+      "siteId": "experience-builder",
+      "title": "Jimu",
+      "url": "/guide/core-concepts/jimu/"
+    },
+    "xref://site.experience-builder/extension-points/": {
+      "siteId": "experience-builder",
+      "title": "Extension points",
+      "url": "/guide/extension-points/"
+    },
+    "xref://site.experience-builder/use-data-source-in-widget/": {
+      "siteId": "experience-builder",
+      "title": "Use data source in widget",
+      "url": "/guide/use-data-source-in-widget/"
+    },
+    "xref://site.experience-builder/copy-files-to-dist-folder/": {
+      "siteId": "experience-builder",
+      "title": "Copy files to dist folder",
+      "url": "/guide/copy-files-to-dist-folder/"
+    },
+    "xref://site.experience-builder/tutorials/": {
+      "siteId": "experience-builder",
+      "title": "Tutorials",
+      "url": "/guide/tutorials/"
+    },
+    "xref://site.experience-builder/page/": {
+      "siteId": "experience-builder",
+      "title": "Page",
+      "url": "/guide/core-concepts/page/"
+    },
+    "xref://site.experience-builder/whats-new-1-3/": {
+      "siteId": "experience-builder",
+      "title": "Release 1.3",
+      "url": "/guide/1.3/whats-new/"
+    },
+    "xref://site.experience-builder/code-linting/": {
+      "siteId": "experience-builder",
+      "title": "Code linting",
+      "url": "/guide/linting/"
+    },
+    "xref://site.experience-builder/jimu-for-test/": {
+      "siteId": "experience-builder",
+      "title": "Jimu for Test",
+      "url": "/api-reference/jimu-for-test/"
+    },
+    "xref://site.experience-builder/": {
+      "siteId": "experience-builder",
+      "title": "ArcGIS Experience Builder",
+      "url": "/"
+    },
+    "xref://site.experience-builder/whats-new-1-16/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.16",
+      "url": "/guide/1.16/whats-new/"
+    },
+    "xref://site.experience-builder/section-view/": {
+      "siteId": "experience-builder",
+      "title": "Section and view",
+      "url": "/guide/core-concepts/section-view/"
+    },
+    "xref://site.experience-builder/whats-new-1-1/": {
+      "siteId": "experience-builder",
+      "title": "Release 1.1",
+      "url": "/guide/1.1/whats-new/"
+    },
+    "xref://site.experience-builder/jimu-ui/": {
+      "siteId": "experience-builder",
+      "title": "Jimu UI",
+      "url": "/api-reference/jimu-ui/"
+    },
+    "xref://site.experience-builder/overview/": {
+      "siteId": "experience-builder",
+      "title": "Overview of ArcGIS Experience Builder developer guide",
+      "url": "/guide/overview-of-experience-builder/"
+    },
+    "xref://site.experience-builder/make-widget-backward-compatible/": {
+      "siteId": "experience-builder",
+      "title": "Make widget backward compatible",
+      "url": "/guide/make-widgets-backward-compatible/"
+    },
+    "xref://site.experience-builder/upgrade/": {
+      "siteId": "experience-builder",
+      "title": "Upgrade",
+      "url": "/guide/upgrade/"
+    },
+    "xref://site.experience-builder/jimu-for-builder/": {
+      "siteId": "experience-builder",
+      "title": "Jimu for Builder",
+      "url": "/api-reference/jimu-for-builder/"
+    },
+    "xref://site.experience-builder/tutorial-add-layers/": {
+      "siteId": "experience-builder",
+      "title": "Add layers to a map",
+      "url": "/guide/add-layers-to-a-map/"
+    },
+    "xref://site.experience-builder/storybook/": {
+      "siteId": "experience-builder",
+      "title": "Storybook",
+      "url": "/guide/storybook/"
+    },
+    "xref://site.experience-builder/tutorial-add-layers-to-a-map/": {
+      "siteId": "experience-builder",
+      "title": "Add layers to a map",
+      "url": "/guide/add-layers-to-a-map/"
+    },
+    "xref://site.experience-builder/import-apps-or-templates/": {
+      "siteId": "experience-builder",
+      "title": "Import existing apps or templates",
+      "url": "/guide/import-apps-or-templates/"
+    },
+    "xref://site.experience-builder/message-action/": {
+      "siteId": "experience-builder",
+      "title": "Message and action",
+      "url": "/guide/core-concepts/message-action/"
+    },
+    "xref://site.experience-builder/frequently-asked-questions/": {
+      "siteId": "experience-builder",
+      "title": "Frequently Asked Questions (FAQ)",
+      "url": "/guide/frequently-asked-questions/"
+    },
+    "xref://site.experience-builder/widget-communication/": {
+      "siteId": "experience-builder",
+      "title": "Widget communication",
+      "url": "/guide/widget-communication/"
+    },
+    "xref://site.experience-builder/theme/": {
+      "siteId": "experience-builder",
+      "title": "Theme",
+      "url": "/guide/core-concepts/theme/"
+    },
+    "xref://site.experience-builder/downloads/": {
+      "siteId": "experience-builder",
+      "title": "Downloads",
+      "url": "/guide/downloads/"
+    },
+    "xref://site.experience-builder/whats-new-1-15/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.15",
+      "url": "/guide/1.15/whats-new/"
+    },
+    "xref://site.experience-builder/whats-new-1-12/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.12",
+      "url": "/guide/1.12/whats-new/"
+    },
+    "xref://site.experience-builder/use-map-widget-in-widget/": {
+      "siteId": "experience-builder",
+      "title": "Use Map widget in widget",
+      "url": "/guide/use-map-widget-in-widget/"
+    },
+    "xref://site.experience-builder/release-versions/": {
+      "siteId": "experience-builder",
+      "title": "About release versions",
+      "url": "/guide/release-versions/"
+    },
+    "xref://site.experience-builder/map-scene-view/": {
+      "siteId": "experience-builder",
+      "title": "Map and scene view",
+      "url": "/guide/core-concepts/map-scene-view/"
+    },
+    "xref://site.experience-builder/deployment-topics/": {
+      "siteId": "experience-builder",
+      "title": "Deployment",
+      "url": "/guide/deployment-topics/"
+    },
+    "xref://site.experience-builder/core-concepts/": {
+      "siteId": "experience-builder",
+      "title": "Core concepts",
+      "url": "/guide/core-concepts/"
+    },
+    "xref://site.experience-builder/whats-new-1-11/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.11",
+      "url": "/guide/1.11/whats-new/"
+    },
+    "xref://site.experience-builder/extend-base-widget/": {
+      "siteId": "experience-builder",
+      "title": "Widget implementation",
+      "url": "/guide/extend-base-widget/"
+    },
+    "xref://site.experience-builder/add-help-to-your-widget/": {
+      "siteId": "experience-builder",
+      "title": "Add help to your widget",
+      "url": "/guide/add-help-to-your-widget/"
+    },
+    "xref://site.experience-builder/third-party-libraries/": {
+      "siteId": "experience-builder",
+      "title": "Using third-party libraries",
+      "url": "/guide/third-party-libraries/"
+    },
+    "xref://site.experience-builder/whats-new-1-8/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.8",
+      "url": "/guide/1.8/whats-new/"
+    },
+    "xref://site.experience-builder/jimu-arcgis/": {
+      "siteId": "experience-builder",
+      "title": "Jimu ArcGIS",
+      "url": "/api-reference/jimu-arcgis/"
+    },
+    "xref://site.experience-builder/whats-new-1-10/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.10",
+      "url": "/guide/1.10/whats-new/"
+    },
+    "xref://site.experience-builder/widget-ui/": {
+      "siteId": "experience-builder",
+      "title": "Create UI for widget",
+      "url": "/guide/widget-ui/"
+    },
+    "xref://site.experience-builder/whats-new-1-14/": {
+      "siteId": "experience-builder",
+      "title": "What's new 1.14",
+      "url": "/guide/1.14/whats-new/"
+    },
+    "xref://site.experience-builder/theme-development/": {
+      "siteId": "experience-builder",
+      "title": "Theme development",
+      "url": "/guide/theme-development/"
+    },
+    "xref://site.experience-builder/use-assets/": {
+      "siteId": "experience-builder",
+      "title": "Use assets",
+      "url": "/guide/use-assets/"
+    },
+    "xref://site.experience-builder/tutorial-starter-widget/": {
+      "siteId": "experience-builder",
+      "title": "Create a starter widget",
+      "url": "/guide/create-a-starter-widget/"
+    },
+    "xref://site.experience-builder/screen-groups/": {
+      "siteId": "experience-builder",
+      "title": "Screen groups",
+      "url": "/guide/core-concepts/screen/"
+    },
+    "xref://site.experience-builder/migrating-from-web-appbuilder/": {
+      "siteId": "experience-builder",
+      "title": "Migrating from Web AppBuilder",
+      "url": "/guide/migrating-from-web-appbuilder/"
+    }
+  },
+  "siteName": "ArcGIS Experience Builder",
+  "shortcutRoot": "DEVSITE"
+}

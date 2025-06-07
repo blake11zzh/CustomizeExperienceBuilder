@@ -1,0 +1,22 @@
+{
+  "availableActions": "可用操作",
+  "bookmarks": "书签",
+  "copyHTML": "复制 HTML",
+  "custom": "自定义",
+  "dark": "深色",
+  "embed": "嵌入",
+  "embedMap": "嵌入式地图",
+  "htmlCopied": "复制的 HTML",
+  "large": "大",
+  "legend": "图例",
+  "light": "浅色",
+  "mapElements": "地图元素",
+  "mapSummary": "地图摘要",
+  "mapTitle": "地图标题",
+  "medium": "中",
+  "mode": "模式",
+  "openInMapViewer": "在 Map Viewer 中打开",
+  "size": "大小",
+  "sizeInfo": "大小为响应式并且基于浏览器窗口高度和宽度",
+  "small": "小"
+}

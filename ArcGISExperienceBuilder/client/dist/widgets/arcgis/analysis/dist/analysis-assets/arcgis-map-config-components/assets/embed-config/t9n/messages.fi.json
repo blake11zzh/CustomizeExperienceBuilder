@@ -1,0 +1,22 @@
+{
+  "availableActions": "Käytettävissä olevat toiminnot",
+  "bookmarks": "Kirjanmerkit",
+  "copyHTML": "Kopioi HTML",
+  "custom": "Mukautettu",
+  "dark": "Tumma",
+  "embed": "Upota",
+  "embedMap": "Upota kartta",
+  "htmlCopied": "HTML kopioitu",
+  "large": "Suuri",
+  "legend": "Selite",
+  "light": "Vaalea",
+  "mapElements": "Karttaelementit",
+  "mapSummary": "Kartan yhteenveto",
+  "mapTitle": "Kartan otsikko",
+  "medium": "Keskitaso",
+  "mode": "Tila",
+  "openInMapViewer": "Avaa Map Viewerissa",
+  "size": "Koko",
+  "sizeInfo": "Koot ovat responsiivisia ja perustuvat selainikkunan leveyteen ja korkeuteen",
+  "small": "Pieni"
+}

@@ -1,0 +1,22 @@
+{
+  "availableActions": "Beschikbare acties",
+  "bookmarks": "Bladwijzers",
+  "copyHTML": "HTML kopiëren",
+  "custom": "Aangepast",
+  "dark": "Donker",
+  "embed": "Insluiten",
+  "embedMap": "Kaart insluiten",
+  "htmlCopied": "HTML is gekopieerd",
+  "large": "Groot",
+  "legend": "Legenda",
+  "light": "Licht",
+  "mapElements": "Kaartelementen",
+  "mapSummary": "Samenvatting kaart",
+  "mapTitle": "Titel kaart",
+  "medium": "Gemiddeld",
+  "mode": "Modus",
+  "openInMapViewer": "Openen in Map Viewer",
+  "size": "Grootte",
+  "sizeInfo": "Groottes zijn responsief en zijn gebaseerd op de hoogte en breedte van het browservenster",
+  "small": "Klein"
+}

@@ -1,0 +1,22 @@
+{
+  "availableActions": "الإجراءات المتاحة",
+  "bookmarks": "إشارات مرجعية",
+  "copyHTML": "نسخ HTML",
+  "custom": "مخصص",
+  "dark": "داكن",
+  "embed": "مضمن",
+  "embedMap": "تضمين الخريطة",
+  "htmlCopied": "تم نسخ HTML",
+  "large": "كبير",
+  "legend": "وسيلة الإيضاح",
+  "light": "فاتح",
+  "mapElements": "عناصر الخريطة",
+  "mapSummary": "ملخص الخريطة",
+  "mapTitle": "عنوان الخريطة",
+  "medium": "متوسط",
+  "mode": "وضع",
+  "openInMapViewer": "افتح في Map Viewer",
+  "size": "الحجم",
+  "sizeInfo": "الأحجام متجاوبة وتعتمد على ارتفاع وعرض نافذة المتصفح",
+  "small": "صغير"
+}

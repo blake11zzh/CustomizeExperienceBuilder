@@ -1,0 +1,22 @@
+{
+  "availableActions": "Kullanılabilir işlemler",
+  "bookmarks": "Yer imleri",
+  "copyHTML": "HTML'yi kopyala",
+  "custom": "Özel",
+  "dark": "Koyu",
+  "embed": "Yerleştir",
+  "embedMap": "Haritayı yerleştir",
+  "htmlCopied": "HTML kopyalandı",
+  "large": "Büyük",
+  "legend": "Lejant",
+  "light": "Açık",
+  "mapElements": "Harita ögeleri",
+  "mapSummary": "Harita özeti",
+  "mapTitle": "Harita başlığı",
+  "medium": "Orta",
+  "mode": "Mod",
+  "openInMapViewer": "Map Viewer'da Aç",
+  "size": "Boyut",
+  "sizeInfo": "Boyutlar duyarlıdır ve tarayıcı penceresi yüksekliğini ve genişliğini temel alır",
+  "small": "Küçük"
+}

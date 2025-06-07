@@ -1,0 +1,22 @@
+{
+  "availableActions": "Acțiuni disponibile",
+  "bookmarks": "Semne de carte",
+  "copyHTML": "Copiere HTML",
+  "custom": "Personalizare",
+  "dark": "Întunecat",
+  "embed": "Încorporat",
+  "embedMap": "Încorporare hartă",
+  "htmlCopied": "HTML copiat",
+  "large": "Mare",
+  "legend": "Legendă",
+  "light": "Luminat",
+  "mapElements": "Elemente hartă",
+  "mapSummary": "Rezumat hartă",
+  "mapTitle": "Titlu hartă",
+  "medium": "Mediu",
+  "mode": "Mod",
+  "openInMapViewer": "Deschidere în Map Viewer",
+  "size": "Dimensiune",
+  "sizeInfo": "Dimensiunile sunt reactiv și se bazează pe înălțimea și lățimea ferestrei browserului.",
+  "small": "Mic"
+}

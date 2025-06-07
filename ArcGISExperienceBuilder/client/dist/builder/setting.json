@@ -1,0 +1,17 @@
+{
+  "devEnv": {
+    "dev": {
+      "portalUrl": "https://devext.arcgis.com",
+      "clientId": "experienceBuilder"
+    },
+    "qa": {
+      "portalUrl": "https://qaext.arcgis.com",
+      "clientId": "experienceBuilder"
+    },
+    "prod": {
+      "portalUrl": "https://hatch.maps.arcgis.com",
+      "clientId": "kaw1scy34G16E4BP",
+      "isWebTier": false
+    }
+  }
+}

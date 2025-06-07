@@ -1,0 +1,22 @@
+{
+  "availableActions": "Dostupne radnje",
+  "bookmarks": "Knjižne oznake",
+  "copyHTML": "Kopiraj HTML",
+  "custom": "Prilagodi",
+  "dark": "Tamno",
+  "embed": "Umetni",
+  "embedMap": "Ugradi kartu",
+  "htmlCopied": "HTML kopiran",
+  "large": "Velika",
+  "legend": "Legenda",
+  "light": "Svijetlo",
+  "mapElements": "Elementi karte",
+  "mapSummary": "Sažetak karte",
+  "mapTitle": "Naslov karte",
+  "medium": "Srednja",
+  "mode": "Način",
+  "openInMapViewer": "Otvori u Map Vieweru",
+  "size": "Veličina",
+  "sizeInfo": "Veličine su prilagodljive i zasnivaju se na visini i širini prozora preglednika",
+  "small": "Mala"
+}

@@ -1,0 +1,22 @@
+{
+  "availableActions": "Saadaolevad tegevused",
+  "bookmarks": "Järjehoidjad",
+  "copyHTML": "Kopeeri HTML",
+  "custom": "Kohandatud",
+  "dark": "Tume",
+  "embed": "Manusta",
+  "embedMap": "Põimitud kaart",
+  "htmlCopied": "HTML kopeeriti",
+  "large": "Suur",
+  "legend": "Legendiga kaart",
+  "light": "Hele",
+  "mapElements": "Kaardielemendid",
+  "mapSummary": "Kaardi kokkuvõte",
+  "mapTitle": "Kaardi pealkiri",
+  "medium": "Keskmine",
+  "mode": "Režiim",
+  "openInMapViewer": "Ava kaardivaaturis",
+  "size": "Suurus",
+  "sizeInfo": "Suurused on kohanduvad ja põhinevad brauseri akna kõrgusel ja laiusel.",
+  "small": "Väike"
+}

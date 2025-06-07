@@ -1,0 +1,22 @@
+{
+  "availableActions": "Доступные действия",
+  "bookmarks": "Закладки",
+  "copyHTML": "Копировать HTML",
+  "custom": "Пользовательский",
+  "dark": "Темная",
+  "embed": "Встроить",
+  "embedMap": "Встроенная карта",
+  "htmlCopied": "HTML скопирован",
+  "large": "Большой",
+  "legend": "Легенда",
+  "light": "Светлая",
+  "mapElements": "Элементы карты",
+  "mapSummary": "Краткая информация о карте",
+  "mapTitle": "Заголовок карты",
+  "medium": "Средний",
+  "mode": "Режим",
+  "openInMapViewer": "Открыть в Map Viewer",
+  "size": "Размер",
+  "sizeInfo": "Размеры зависят от высоты и ширины окна браузера",
+  "small": "Малый"
+}

@@ -1,0 +1,22 @@
+{
+  "availableActions": "Dostupné akcea",
+  "bookmarks": "Záložky",
+  "copyHTML": "Kopírovat HTML",
+  "custom": "Vlastní",
+  "dark": "Tmavá",
+  "embed": "Vložený obsah",
+  "embedMap": "Vložit mapu",
+  "htmlCopied": "HTML zkopírováno",
+  "large": "Velký",
+  "legend": "Legenda",
+  "light": "Světlý",
+  "mapElements": "Elementy mapy",
+  "mapSummary": "Souhrn mapy",
+  "mapTitle": "Název mapy",
+  "medium": "Střední",
+  "mode": "Režim",
+  "openInMapViewer": "Otevřít v Map Viewer",
+  "size": "Velikost",
+  "sizeInfo": "Velikosti jsou responzivní a závisí na výšce a šířce okna prohlížeče",
+  "small": "Malý"
+}

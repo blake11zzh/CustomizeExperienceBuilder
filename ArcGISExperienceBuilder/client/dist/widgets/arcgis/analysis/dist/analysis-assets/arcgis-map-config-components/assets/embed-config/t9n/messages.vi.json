@@ -1,0 +1,22 @@
+{
+  "availableActions": "Thao tác có sẵn",
+  "bookmarks": "Phạm vi đánh dấu",
+  "copyHTML": "Sao chép HTML",
+  "custom": "Tùy chỉnh",
+  "dark": "Tối",
+  "embed": "Nhúng",
+  "embedMap": "Nhúng bản đồ",
+  "htmlCopied": "HTML đã được sao chép",
+  "large": "Lớn",
+  "legend": "Chú giải",
+  "light": "Sáng",
+  "mapElements": "Phần tử bản đồ",
+  "mapSummary": "Thông tin tóm tắt bản đồ",
+  "mapTitle": "Tiêu đề bản đồ",
+  "medium": "Trung bình",
+  "mode": "Chế độ",
+  "openInMapViewer": "Mở trong Trình xem Bản đồ",
+  "size": "Kích thước",
+  "sizeInfo": "Kích thước có tính thích ứng và dựa trên chiều cao và chiều rộng của cửa sổ trình duyệt",
+  "small": "Nhỏ"
+}

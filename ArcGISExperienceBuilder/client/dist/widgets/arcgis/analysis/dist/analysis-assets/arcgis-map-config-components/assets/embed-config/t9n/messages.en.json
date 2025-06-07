@@ -1,0 +1,22 @@
+{
+  "availableActions": "Available actions",
+  "bookmarks": "Bookmarks",
+  "copyHTML": "Copy HTML",
+  "custom": "Custom",
+  "dark": "Dark",
+  "embed": "Embed",
+  "embedMap": "Embed map",
+  "htmlCopied": "HTML copied",
+  "large": "Large",
+  "legend": "Legend",
+  "light": "Light",
+  "mapElements": "Map elements",
+  "mapSummary": "Map summary",
+  "mapTitle": "Map title",
+  "medium": "Medium",
+  "mode": "Mode",
+  "openInMapViewer": "Open in Map Viewer",
+  "size": "Size",
+  "sizeInfo": "Sizes are responsive and based on browser window height and width",
+  "small": "Small"
+}

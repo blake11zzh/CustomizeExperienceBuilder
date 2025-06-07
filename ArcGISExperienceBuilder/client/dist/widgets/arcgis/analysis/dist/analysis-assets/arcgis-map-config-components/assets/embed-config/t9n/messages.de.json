@@ -1,0 +1,22 @@
+{
+  "availableActions": "Verfügbare Aktionen",
+  "bookmarks": "Lesezeichen",
+  "copyHTML": "HTML kopieren",
+  "custom": "Benutzerdefiniert",
+  "dark": "Dunkel",
+  "embed": "Einbetten",
+  "embedMap": "Karte einbetten",
+  "htmlCopied": "Kopiertes HTML",
+  "large": "Groß",
+  "legend": "Legende",
+  "light": "Hell",
+  "mapElements": "Kartenelemente",
+  "mapSummary": "Kartenzusammenfassung",
+  "mapTitle": "Kartentitel",
+  "medium": "Mittel",
+  "mode": "Modus",
+  "openInMapViewer": "In Map Viewer öffnen",
+  "size": "Größe",
+  "sizeInfo": "Größen sind responsiv und basieren auf der Höhe und Breite des Browser-Fensters.",
+  "small": "Klein"
+}

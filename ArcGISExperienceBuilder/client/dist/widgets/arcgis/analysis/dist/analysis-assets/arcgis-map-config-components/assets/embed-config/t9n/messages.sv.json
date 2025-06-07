@@ -1,0 +1,22 @@
+{
+  "availableActions": "Tillgängliga åtgärder",
+  "bookmarks": "Bokmärken",
+  "copyHTML": "Kopiera HTML",
+  "custom": "Anpassat",
+  "dark": "Mörk",
+  "embed": "Bädda in",
+  "embedMap": "Bädda in karta",
+  "htmlCopied": "HTML har kopierats",
+  "large": "Stor",
+  "legend": "Teckenförklaring",
+  "light": "Ljus",
+  "mapElements": "Kartelement",
+  "mapSummary": "Kartsammanfattning",
+  "mapTitle": "Karttitel",
+  "medium": "Medium",
+  "mode": "Läge",
+  "openInMapViewer": "Öppna i Map Viewer",
+  "size": "Storlek",
+  "sizeInfo": "Storlekar är responsiva och baserade på webbläsarfönstrets höjd och bredd",
+  "small": "Liten"
+}

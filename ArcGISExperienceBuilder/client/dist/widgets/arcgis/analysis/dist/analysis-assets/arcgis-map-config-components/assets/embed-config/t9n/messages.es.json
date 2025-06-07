@@ -1,0 +1,22 @@
+{
+  "availableActions": "Acciones disponibles",
+  "bookmarks": "Marcadores",
+  "copyHTML": "Copiar HTML",
+  "custom": "Personalizada",
+  "dark": "Oscuro",
+  "embed": "Integrar",
+  "embedMap": "Integrar mapa",
+  "htmlCopied": "HTML copiado",
+  "large": "Grande",
+  "legend": "Leyenda",
+  "light": "Claro",
+  "mapElements": "Elementos de mapa",
+  "mapSummary": "Resumen de mapa",
+  "mapTitle": "Título del mapa",
+  "medium": "Mediana",
+  "mode": "Modo",
+  "openInMapViewer": "Abrir en Map Viewer",
+  "size": "Tamaño",
+  "sizeInfo": "Los tamaños se adaptan y se basan en la altura y anchura de la ventana del navegador",
+  "small": "Pequeña"
+}

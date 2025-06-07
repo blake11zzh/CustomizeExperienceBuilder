@@ -1,0 +1,22 @@
+{
+  "availableActions": "사용 가능한 작업",
+  "bookmarks": "북마크",
+  "copyHTML": "HTML 복사",
+  "custom": "사용자 정의",
+  "dark": "어둡게",
+  "embed": "임베드",
+  "embedMap": "맵 임베드",
+  "htmlCopied": "HTML이 복사됨",
+  "large": "크게",
+  "legend": "범례",
+  "light": "밝게",
+  "mapElements": "맵 요소",
+  "mapSummary": "맵 요약",
+  "mapTitle": "맵 제목",
+  "medium": "보통",
+  "mode": "모드",
+  "openInMapViewer": "Map Viewer에서 열기",
+  "size": "크기",
+  "sizeInfo": "크기는 반응형이며 브라우저 창 높이 및 너비에 따라 결정됩니다.",
+  "small": "작게"
+}
